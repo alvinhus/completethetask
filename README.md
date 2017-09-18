@@ -6,12 +6,13 @@ Web server is Nginx.
 
 INSTRUCTIONS
 1. in terminal run 
-		$ "git clone https://github.com/alvinhus/completethetask"
+		 "git clone https://github.com/alvinhus/completethetask"
 2. change active directory to completethetask by running
-		$cd completethetask
+		"cd completethetask"
 3. use vagrant to fire up virtual machine by typing 
-		$vagrant up
+		"vagrant up"
 4. Wait for vagrant to finish the virtual machine startup
-5. Open http://localhost:8080 in web browser. Index.html that lists all users on the system should be presented.
+5. Open http://localhost:8080 in web browser.Static file index.html that lists all users on the system is presented.*
+The list contains users that were created on the system before executing command on line 
 
  
