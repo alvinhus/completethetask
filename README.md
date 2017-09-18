@@ -12,7 +12,7 @@ INSTRUCTIONS
 3. use vagrant to fire up virtual machine by typing 
 		"vagrant up"
 4. Wait for vagrant to finish the virtual machine startup
-5. Open http://localhost:8080 in web browser.Static file index.html that lists all users on the system is presented.*
+5. Open http://localhost:8080 in web browser. Static file index.html that lists all users on the system is presented.*
 The list contains users that were created on the system before executing command that generated index.html (line 20 in .provision/completethetask.sh) 
 
  
