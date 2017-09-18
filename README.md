@@ -1,7 +1,10 @@
 # completethetask
 
-INSTRUCTIONS
 The task is done using Vagrant version 2.0.0 and virtualbox.
+Vagrant box used is ubuntu/xenial64.
+Web server is Nginx.
+
+INSTRUCTIONS
 1. in terminal run 
 		$ "git clone https://github.com/alvinhus/completethetask"
 2. change active directory to completethetask by running
