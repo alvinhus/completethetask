@@ -8,7 +8,7 @@ The task is done using Vagrant version 2.0.0 and virtualbox.
 cd completethetask
 3. use vagrant to fire up virtual machine by typing 
 	vagrant up
-4. Wait vagrant to finish the virtual machine startup
+4. Wait for vagrant to finish the virtual machine startup
 5. Open http://localhost:8080 in web browser. Index.html that lists all users on the system should be presented.
 
  
